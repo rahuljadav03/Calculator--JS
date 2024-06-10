@@ -1,0 +1,24 @@
+@media screen and (max-width: 600px) {
+    .countainer {
+      height: 105vmin;
+      width: 80vmin;
+      border: 1vmin solid white;
+      border-radius: 7vmin;
+    }
+  
+    .display {
+      width: 63vmin;
+    }
+  
+    input {
+      height: 12vmin;
+      font-size: 8vmin;
+    }
+    button {
+      height: 13vmin;
+      width: 13vmin;
+      font-size: 5vmin;
+ 
+    }
+
+  }
